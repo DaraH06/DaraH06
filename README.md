@@ -1,8 +1,7 @@
-
 <div align="center">
 
 <!-- Game Boy Header Banner -->
-<img src="assets/gameboy-header.svg" width="100%" alt="Teguh Januar Rifaldi - Game Boy themed header"/>
+<img src="https://raw.githubusercontent.com/DaraH06/DaraH06/main/assets/gameboy-header.svg" width="100%" alt="Teguh Januar Rifaldi"/>
 
 <br/>
 
@@ -53,13 +52,13 @@
 
 <div align="center">
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=DaraH06&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8BAC0F&text_color=C9D1D9&icon_color=8BAC0F&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-&nbsp;
-<img height="165" src="https://streak-stats.demolab.com/?user=DaraH06&background=0D1117&ring=8BAC0F&fire=9BBC0F&currStreakLabel=8BAC0F&sideLabels=C9D1D9&dates=8B949E&sideNums=C9D1D9&currStreakNum=C9D1D9&hide_border=true" alt="GitHub Streak"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=DaraH06&background=0D1117&ring=8BAC0F&fire=9BBC0F&currStreakLabel=8BAC0F&sideLabels=C9D1D9&dates=8B949E&sideNums=C9D1D9&currStreakNum=C9D1D9&hide_border=true" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=DaraH06&layout=compact&langs_count=8&bg_color=0D1117&title_color=8BAC0F&text_color=C9D1D9&hide_border=true" alt="Top Languages"/>
+<img height="150" src="https://github-stats-extended.vercel.app/api?username=DaraH06&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8BAC0F&text_color=C9D1D9&icon_color=8BAC0F&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+&nbsp;
+<img height="150" src="https://github-stats-extended.vercel.app/api/top-langs/?username=DaraH06&layout=compact&langs_count=8&bg_color=0D1117&title_color=8BAC0F&text_color=C9D1D9&hide_border=true" alt="Top Languages"/>
 
 </div>
 
