@@ -56,27 +56,22 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DaraH06&show_icons=true&hide_border=false&bg_color=0F380F&title_color=9BBC0F&text_color=8BAC0F&icon_color=9BBC0F&border_color=306230&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=DaraH06&show_icons=true&hide_border=false&bg_color=0F380F&title_color=9BBC0F&text_color=8BAC0F&icon_color=9BBC0F&border_color=306230&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 &nbsp;
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=DaraH06&background=0F380F&ring=9BBC0F&fire=8BAC0F&currStreakLabel=9BBC0F&sideLabels=8BAC0F&dates=306230&sideNums=9BBC0F&currStreakNum=9BBC0F&border=306230" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaraH06&layout=compact&langs_count=8&bg_color=0F380F&title_color=9BBC0F&text_color=8BAC0F&border_color=306230&hide_border=false" alt="Top Languages"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=DaraH06&layout=compact&langs_count=8&bg_color=0F380F&title_color=9BBC0F&text_color=8BAC0F&border_color=306230&hide_border=false" alt="Top Languages"/>
 
 </div>
+
 
 <br/>
 
 <div align="center">
 
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=DaraH06&theme=gruvbox&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DaraH06&bg_color=0F380F&color=9BBC0F&line=8BAC0F&point=9BBC0F&area_color=306230&area=true&hide_border=false&custom_title=ACTIVITY%20LOG" alt="Activity Graph"/>
 
 </div>
 
