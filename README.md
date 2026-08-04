@@ -87,8 +87,8 @@
     <img src="https://img.shields.io/badge/GitHub-DaraH06-C9D1D9?style=flat-square&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub"/>
   </a>
   &nbsp;
-  <a href="mailto:enemyteguh@gmail.com">
-    <img src="https://img.shields.io/badge/Email-enemyteguh@gmail.com-C9D1D9?style=flat-square&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/>
+  <a href="mailto:teguh.thewaifu.kun@gmail.com">
+    <img src="https://img.shields.io/badge/Email-teguh.thewaifu.kun@gmail.com-C9D1D9?style=flat-square&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/>
   </a>
 </p>
 
