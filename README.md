@@ -25,9 +25,9 @@
 | | |
 |:--|:--|
 | 🔭 **Now Playing** | `--` |
-| 🌱 **Skill Tree** | JavaScript & Python |
+| 🌱 **Skill Tree** | PHP |
 | 💬 **Party Chat** | 4 years Front-End experience with team collab |
-| 📫 **Save Point** | enemyteguh@gmail.com |
+| 📫 **Save Point** | teguh.thewaifu.kun@gmail.com |
 | ⚡ **Easter Egg** | I think I am a Weebs |
 
 ---
