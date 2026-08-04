@@ -1,0 +1,101 @@
+{
+  "version": "1.0.0",
+  "exportedAt": "2026-08-04T02:21:20.615Z",
+  "profile": {
+    "title": "Teguh Januar Rifaldi",
+    "subtitle": "Newbie Web Dev ",
+    "currentWork": "--",
+    "currentLearn": "JavaScript And Python Maybe",
+    "collaborateOn": "",
+    "helpWith": "",
+    "ama": "4 years experience in Front-End with collaborate team",
+    "contact": "enemyteguh@gmail.com",
+    "funFact": "i think i am a Weebs",
+    "visitorsBadge": true,
+    "badgeStyle": "flat",
+    "badgeColor": "0e75b6",
+    "badgeLabel": "Profile views",
+    "githubProfileTrophy": true,
+    "githubStats": true,
+    "githubStatsOptions": {
+      "theme": "",
+      "titleColor": "",
+      "textColor": "",
+      "bgColor": "",
+      "hideBorder": false,
+      "cacheSeconds": null,
+      "locale": "en"
+    },
+    "topLanguages": true,
+    "topLanguagesOptions": {
+      "theme": "",
+      "titleColor": "",
+      "textColor": "",
+      "bgColor": "",
+      "hideBorder": false,
+      "cacheSeconds": null,
+      "locale": "en"
+    },
+    "streakStats": true,
+    "streakStatsOptions": {
+      "theme": ""
+    },
+    "devDynamicBlogs": false,
+    "mediumDynamicBlogs": false,
+    "rssDynamicBlogs": false
+  },
+  "links": {
+    "currentWork": "",
+    "collaborateOn": "",
+    "helpWith": "",
+    "portfolio": "",
+    "blog": "",
+    "resume": ""
+  },
+  "social": {
+    "github": "DaraH06",
+    "dev": "",
+    "linkedin": "",
+    "codepen": "",
+    "stackoverflow": "",
+    "kaggle": "",
+    "codesandbox": "",
+    "fb": "",
+    "instagram": "",
+    "twitter": "",
+    "dribbble": "",
+    "behance": "",
+    "medium": "",
+    "youtube": "",
+    "codechef": "",
+    "hackerrank": "",
+    "codeforces": "",
+    "leetcode": "",
+    "topcoder": "",
+    "hackerearth": "",
+    "geeks_for_geeks": "",
+    "discord": "",
+    "rssurl": "",
+    "twitterBadge": false
+  },
+  "support": {
+    "buyMeACoffee": ""
+  },
+  "skills": [
+    "docker",
+    "figma",
+    "flask",
+    "flutter",
+    "git",
+    "java",
+    "javascript",
+    "laravel",
+    "linux",
+    "mongodb",
+    "mysql",
+    "php",
+    "postman",
+    "tailwind",
+    "vuepress"
+  ]
+}
