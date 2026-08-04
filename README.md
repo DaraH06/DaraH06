@@ -36,7 +36,7 @@
 
 ---
 
-## 🕹️ ARCADE CONTRIBUTION GRAPH
+## 🕹️ CONTRIBUTION GRAPH
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DaraH06/DaraH06/output/breakout-contribution-graph-dark.svg">
@@ -69,8 +69,6 @@
 <br/>
 
 <div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DaraH06&bg_color=0F380F&color=9BBC0F&line=8BAC0F&point=9BBC0F&area=true&area_color=306230&custom_title=COMMIT+ACTIVITY&hide_border=false" alt="Activity Graph"/>
 
 </div>
 
