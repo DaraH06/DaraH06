@@ -1,32 +1,127 @@
-# Hi 👋, I'm Teguh Januar Rifaldi
 
-### Newbie Web Dev 
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DaraH06&label=Profile views&color=0e75b6&style=flat" alt="DaraH06" /> </p>
+<!-- Game Boy Header Banner -->
+<img src="assets/gameboy-header.svg" width="100%" alt="Game Boy themed header - Teguh Januar Rifaldi"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DaraH06" alt="DaraH06" /></a> </p>
+<br/><br/>
 
-- 🔭 I'm currently working on **--**
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=9BBC0F&center=true&vCenter=true&width=600&lines=PLAYER+1+READY...;NEWBIE+WEB+DEV;4+YRS+FRONT-END+EXP;WEEB+MODE%3A+ON" alt="Typing animation"/>
 
-- 🌱 I'm currently learning **JavaScript And Python Maybe**
+<br/>
 
-- 💬 Ask me about **4 years experience in Front-End with collaborate team**
+<img src="https://komarev.com/ghpvc/?username=DaraH06&label=PLAY+COUNT&color=9BBC0F&style=for-the-badge" alt="Profile views"/>
 
-- 📫 How to reach me **enemyteguh@gmail.com**
+</div>
 
-- ⚡ Fun fact **i think i am a Weebs**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/DaraH06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="DaraH06" height="30" width="40" /></a>
+## 🎮 STATUS SCREEN
+
+```text
+┌──────────────────────────────────────────────┐
+│  HP ████████████░░░░░░░░  72%                │
+│  XP ██████░░░░░░░░░░░░░░  LVL 04 — WEB DEV   │
+│  COIN x4  │  HIGH SCORE: KEEP GRINDING       │
+└──────────────────────────────────────────────┘
+```
+
+| Quest | Detail |
+|:------|:-------|
+| 🔭 **Now Playing** | `--` |
+| 🌱 **Skill Tree** | JavaScript & Python |
+| 💬 **Party Chat** | 4 years Front-End experience with team collab |
+| 📫 **Save Point** | enemyteguh@gmail.com |
+| ⚡ **Easter Egg** | I think I am a Weebs |
+
+---
+
+## 🕹️ TETRIS CONTRIBUTION GRAPH
+
+> Contribution history kamu, tapi dibentuk jadi Tetris pieces yang jatuh!  
+> *(Workflow auto-update setiap hari — push ke branch `output`)*
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DaraH06/DaraH06/output/contribution-graph-tetris.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DaraH06/DaraH06/output/contribution-graph-tetris.svg">
+  <img alt="Animated Tetris contribution graph" src="https://raw.githubusercontent.com/DaraH06/DaraH06/output/contribution-graph-tetris.svg" width="100%"/>
+</picture>
+
+<p align="center">
+  <a href="https://gh-tetris.vercel.app/">
+    <img src="https://img.shields.io/badge/▶_PLAY_TETRIS_FROM_YOUR_GRAPH-8BAC0F?style=for-the-badge&labelColor=0F380F" alt="Play Tetris"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flutter" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/laravel" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuepress" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vuepress" width="40" height="40"/> </a></p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DaraH06&show_icons=true&locale=en&layout=compact" alt="DaraH06" /></p>
+## 📊 SCORE BOARD
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DaraH06&show_icons=true&locale=en" alt="DaraH06" /></p>
+<div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DaraH06&" alt="DaraH06" /></p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=DaraH06&show_icons=true&hide_border=false&bg_color=0F380F&title_color=9BBC0F&text_color=8BAC0F&icon_color=9BBC0F&border_color=306230&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+&nbsp;
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=DaraH06&background=0F380F&ring=9BBC0F&fire=8BAC0F&currStreakLabel=9BBC0F&sideLabels=8BAC0F&dates=306230&sideNums=9BBC0F&currStreakNum=9BBC0F&border=306230" alt="GitHub Streak"/>
 
+<br/><br/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaraH06&layout=compact&langs_count=8&bg_color=0F380F&title_color=9BBC0F&text_color=8BAC0F&border_color=306230&hide_border=false" alt="Top Languages"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DaraH06&bg_color=0F380F&color=9BBC0F&line=8BAC0F&point=9BBC0F&area=true&area_color=306230&custom_title=COMMIT+ACTIVITY&hide_border=false" alt="Activity Graph"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=DaraH06&theme=gruvbox&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+## 🏆 ACHIEVEMENTS UNLOCKED
+
+<h3 align="left">🛠️ Inventory — Languages & Tools</h3>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,figma,flask,flutter,git,java,js,laravel,linux,mongodb,mysql,php,postman,tailwind,vue" alt="Skills"/>
+</p>
+
+---
+
+## 🔗 MULTIPLAYER
+
+<h3 align="left">Connect with me:</h3>
+
+<p align="left">
+  <a href="https://github.com/DaraH06" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-DaraH06-9BBC0F?style=for-the-badge&logo=github&logoColor=0F380F&labelColor=306230" alt="GitHub"/>
+  </a>
+  &nbsp;
+  <a href="mailto:enemyteguh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-enemyteguh@gmail.com-8BAC0F?style=for-the-badge&logo=gmail&logoColor=0F380F&labelColor=306230" alt="Email"/>
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+```text
+ ╔══════════════════════════════════════╗
+ ║   THANK YOU FOR PLAYING!             ║
+ ║   GAME OVER? PRESS START TO CONNECT  ║
+ ╚══════════════════════════════════════╝
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F380F&height=100&section=footer&text=PRESS%20START&fontSize=24&fontColor=9BBC0F&animation=twinkling"/>
+
+</div>
