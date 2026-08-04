@@ -38,9 +38,6 @@
 
 ## 🕹️ ARCADE CONTRIBUTION GRAPH
 
-> Animasi otomatis & loop terus seperti [Pacman di PolyLvst](https://github.com/PolyLvst/PolyLvst) — bola Breakout memecah contribution graph kamu!  
-> *(Auto-update setiap hari via GitHub Actions → branch `output`)*
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DaraH06/DaraH06/output/breakout-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DaraH06/DaraH06/output/breakout-contribution-graph.svg">
