@@ -36,19 +36,19 @@
 
 ---
 
-## 🕹️ TETRIS CONTRIBUTION GRAPH
+## 🕹️ ARCADE CONTRIBUTION GRAPH
 
-> Contribution history kamu, tapi dibentuk jadi Tetris pieces yang jatuh!  
-> *(Workflow auto-update setiap hari — push ke branch `output`)*
+> Animasi otomatis & loop terus seperti [Pacman di PolyLvst](https://github.com/PolyLvst/PolyLvst) — bola Breakout memecah contribution graph kamu!  
+> *(Auto-update setiap hari via GitHub Actions → branch `output`)*
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DaraH06/DaraH06/output/contribution-graph-tetris.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DaraH06/DaraH06/output/contribution-graph-tetris.svg">
-  <img alt="Animated Tetris contribution graph" src="https://raw.githubusercontent.com/DaraH06/DaraH06/output/contribution-graph-tetris.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DaraH06/DaraH06/output/breakout-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DaraH06/DaraH06/output/breakout-contribution-graph.svg">
+  <img alt="breakout contribution graph" src="https://raw.githubusercontent.com/DaraH06/DaraH06/output/breakout-contribution-graph.svg" width="100%"/>
 </picture>
 
 <p align="center">
-  <a href="https://gh-tetris.vercel.app/">
+  <a href="https://gh-tetris.vercel.app/?username=DaraH06">
     <img src="https://img.shields.io/badge/▶_PLAY_TETRIS_FROM_YOUR_GRAPH-8BAC0F?style=for-the-badge&labelColor=0F380F" alt="Play Tetris"/>
   </a>
 </p>
