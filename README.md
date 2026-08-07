@@ -32,17 +32,17 @@
 
 ---
 
-## 🕹️ CONTRIBUTION GRAPH
+## 🕹️ GALAGA CONTRIBUTION GRAPH
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DaraH06/DaraH06/output/breakout-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DaraH06/DaraH06/output/breakout-contribution-graph.svg">
-  <img alt="breakout contribution graph" src="https://raw.githubusercontent.com/DaraH06/DaraH06/output/breakout-contribution-graph.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DaraH06/DaraH06/output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DaraH06/DaraH06/output/galaga-contribution-graph.svg">
+  <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/DaraH06/DaraH06/output/galaga-contribution-graph.svg" width="100%"/>
 </picture>
 
 <p align="center">
-  <a href="https://gh-tetris.vercel.app/?username=DaraH06">
-    <img src="https://img.shields.io/badge/▶_PLAY_TETRIS-306230?style=for-the-badge&labelColor=0D1117" alt="Play Tetris"/>
+  <a href="https://raw.githubusercontent.com/DaraH06/DaraH06/output/galaga-contribution-graph.svg">
+    <img src="https://img.shields.io/badge/▶_PLAY_GALAGA-306230?style=for-the-badge&labelColor=0D1117" alt="Play Galaga"/>
   </a>
 </p>
 
